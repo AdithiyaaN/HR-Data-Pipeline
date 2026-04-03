@@ -15,4 +15,4 @@ parser.add_argument("--output-path", default="../data/interview_scorecards.csv")
 args = parser.parse_args()
 
 results = build_scorecards(args.input_path, args.output_path)
-print(f"\nDone. {len(results)} scorecards generated → {args.output_path}")
+print(f"\nDone. {len(results)} scorecards generated -> {args.output_path}")

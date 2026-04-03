@@ -15,4 +15,4 @@ parser.add_argument("--output-path", default="../data/labelled_answers.csv")
 args = parser.parse_args()
 
 results = label_answers(args.input_path, args.output_path)
-print(f"\nDone. {len(results)} answers labelled → {args.output_path}")
+print(f"\nDone. {len(results)} answers labelled -> {args.output_path}")

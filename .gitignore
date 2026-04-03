@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.hypothesis/
+data/structured_jobs.csv
+data/labelled_answers.csv
+data/interview_scorecards.csv
+.env

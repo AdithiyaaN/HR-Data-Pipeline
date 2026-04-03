@@ -1,0 +1,29 @@
+Candidate demonstrated strong technical knowledge of distributed systems and microservices architecture. Explained CAP theorem clearly and gave a solid example from their previous role. Communication was articulate and well-structured throughout. They broke down the problem methodically and showed a systematic approach to debugging. Very collaborative attitude, mentioned enjoying cross-functional work. Strong hire — would recommend moving forward immediately.
+===FEEDBACK===
+Technically weak overall. Struggled to explain basic SQL joins and couldn't solve the coding problem without significant hints. Communication was unclear and answers were hard to follow. No clear approach to problem solving — jumped straight to solutions without analysis. Seemed disengaged and gave short answers. No hire.
+===FEEDBACK===
+Good technical foundation in Python and data engineering. Demonstrated knowledge of Airflow and dbt. Explained their pipeline architecture clearly. Communication was concise and easy to follow. Showed a methodical approach to the system design question. Positive attitude and seemed genuinely enthusiastic about the role. Recommend — move forward to final round.
+===FEEDBACK===
+Candidate has surface level knowledge only. Could name technologies but couldn't explain trade-offs. Struggled to explain their own project when asked follow-up questions. Verbose and rambling in answers, difficult to understand the point they were making. Missed the point on the problem-solving question entirely. Not a fit for this role. Reject.
+===FEEDBACK===
+Strong technical background in ML and NLP. Deep knowledge of transformer architectures and demonstrated knowledge of fine-tuning workflows. Articulate and confident communicator — structured answers well. Broke down the problem logically and identified edge cases proactively. Passionate about the domain and showed a growth mindset. Strong hire.
+===FEEDBACK===
+Borderline candidate. Technically adequate but not impressive — solid understanding of the basics but limited knowledge of advanced topics. Communication was okay, a bit verbose at times. Showed some analytical thinking but the approach wasn't fully structured. Seemed like a team player. Could go either way — maybe with reservations. Would suggest a follow-up technical screen.
+===FEEDBACK===
+Excellent technical skills — well-versed in cloud infrastructure, Kubernetes, and Terraform. Gave impressive examples from production deployments. Very clear communicator, explained complex concepts simply. Systematic and methodical in the design exercise. Collaborative and open to feedback during the technical discussion. Definitely hire.
+===FEEDBACK===
+Limited knowledge of frontend frameworks despite claiming React expertise on CV. Couldn't explain component lifecycle or state management patterns. Poor communication — answers were disorganised and incoherent at times. No structure to problem solving. Seemed resistant to feedback when corrected. Do not hire.
+===FEEDBACK===
+Solid mid-level candidate. Good grasp of backend development and REST API design. Communicated clearly and gave concise answers. Logical approach to the system design question, though missed some scalability considerations. Good culture fit — collaborative and enthusiastic. Hire for mid-level role, not senior.
+===FEEDBACK===
+Technically proficient in data science stack — Python, pandas, scikit-learn. Demonstrated knowledge of model evaluation and cross-validation. Articulate and engaging communicator. Identified the root cause in the case study quickly and proposed a creative solution. Proactive and motivated. Recommend — strong hire.
+===FEEDBACK===
+Candidate struggled with the technical questions. Basic knowledge only of the required stack. Hard to follow during explanations — rambling and unclear. Didn't consider edge cases in the problem-solving exercise. Disengaged during the culture questions. No hire.
+===FEEDBACK===
+Very strong hire. Expert-level knowledge of security engineering — explained zero-trust architecture and threat modelling clearly. Excellent communicator, structured every answer with context and outcome. Broke down the problem systematically and identified issues others typically miss. Passionate about security culture and aligns strongly with our values.
+===FEEDBACK===
+Adequate candidate. Technically sound in the core areas but unfamiliar with some of our stack. Communication was clear but not particularly engaging. Showed some analytical thinking. Adaptable and open to learning new tools. On the fence — maybe. Would benefit from a technical task to assess depth.
+===FEEDBACK===
+Strong DevOps background. Proficient in CI/CD, Docker, and AWS. Explained their infrastructure decisions clearly and confidently. Concise and well-spoken. Methodical approach to the incident response scenario — identified the issue quickly. Team player, mentioned enjoying mentoring junior engineers. Hire.
+===FEEDBACK===
+Candidate showed potential but has clear gaps. Technically adequate for junior level but applying for a senior role. Communication was good — articulate and easy to follow. Showed logical thinking but the approach lacked depth for senior expectations. Enthusiastic and growth mindset evident. No hire for senior, but worth considering for mid-level.

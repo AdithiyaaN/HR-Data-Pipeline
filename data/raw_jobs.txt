@@ -1,0 +1,80 @@
+We are looking for a Senior Python Developer to join our backend team in London.
+You will be working on high-scale distributed systems using Python, FastAPI, PostgreSQL, and Redis.
+The ideal candidate has 5+ years of experience and strong knowledge of cloud infrastructure (AWS).
+Seniority: Senior. Salary: 80-120k. Location: London.
+===JOB===
+Junior Data Analyst needed for our growing analytics team. This is a Remote position.
+You will work with SQL, Excel, and Tableau to generate business insights.
+No prior experience required — we provide full training. Compensation: 25-35 LPA.
+===JOB===
+Lead DevOps Engineer — Berlin office (Hybrid).
+Responsibilities include managing CI/CD pipelines, Kubernetes clusters, and infrastructure as code using Terraform.
+Strong experience with Docker, Jenkins, and AWS required. Salary range: 100-150K.
+===JOB===
+Mid-level Frontend Developer wanted. React, TypeScript, and CSS expertise required.
+You will collaborate with our design team to build responsive web applications.
+Remote-friendly role based out of our Amsterdam office. Pay: 60-90k per year.
+===JOB===
+We are hiring a Machine Learning Engineer to work on NLP and computer vision projects.
+Required skills: Python, PyTorch, TensorFlow, Hugging Face, Docker.
+This is a Senior role based in San Francisco. Competitive salary offered.
+===JOB===
+Data Engineer role at a fast-growing fintech startup in Mumbai.
+You will build and maintain ETL pipelines using Apache Spark, Airflow, and dbt.
+3+ years experience required. Seniority: Mid. Salary: 18-28 LPA.
+===JOB===
+Junior Software Engineer — Sydney, Australia.
+We are looking for a recent graduate to join our mobile team.
+Skills: Swift, Kotlin, REST APIs. Salary: 70-90k AUD. On-site role.
+===JOB===
+Senior Security Engineer needed in Toronto.
+You will lead our cloud security posture, conduct threat modelling, and manage SIEM tooling.
+Required: AWS security, Python scripting, CISSP or equivalent. Salary: 130-160k CAD.
+===JOB===
+Product Data Scientist — Remote (EU timezone).
+Work with product teams to design experiments, build dashboards, and drive data-informed decisions.
+Skills: Python, SQL, A/B testing, Looker. Seniority: Mid. Salary: 70-100k EUR.
+===JOB===
+Lead Backend Engineer at a Series B startup in Singapore.
+You will own the architecture of our core platform built on Node.js, PostgreSQL, and Kafka.
+8+ years experience. Salary: 180-220k SGD. Hybrid role.
+===JOB===
+Junior QA Engineer — Hyderabad, India.
+Manual and automated testing using Selenium and Pytest.
+0-2 years experience. Salary: 4-8 LPA. On-site.
+===JOB===
+Senior Data Scientist — New York.
+Build predictive models for our risk platform using Python, XGBoost, and Spark.
+5+ years experience in financial services preferred. Salary: 150-200k USD. Hybrid.
+===JOB===
+Cloud Infrastructure Engineer — Remote.
+Design and maintain AWS infrastructure using Terraform and CDK.
+Skills: AWS, Terraform, Python, Linux. Seniority: Mid. Salary: 90-120k.
+===JOB===
+Full Stack Developer — Dublin, Ireland.
+Build features across our React frontend and Django backend.
+3+ years experience. Skills: React, Python, Django, PostgreSQL. Salary: 55-75k EUR.
+===JOB===
+Lead Machine Learning Platform Engineer — London.
+Build the internal ML platform powering our recommendation and ranking systems.
+Skills: Python, Kubernetes, MLflow, Spark. Salary: 120-160k. Hybrid.
+===JOB===
+Junior Data Engineer — Remote (US).
+Help build our data warehouse on Snowflake and dbt.
+Skills: SQL, Python, dbt, Airflow. 0-2 years experience. Salary: 70-90k USD.
+===JOB===
+Senior Android Developer — Berlin.
+Lead development of our consumer Android app with 2M+ users.
+Skills: Kotlin, Jetpack Compose, MVVM, REST APIs. Salary: 90-130k EUR. Hybrid.
+===JOB===
+Mid-level Site Reliability Engineer — Amsterdam.
+Maintain uptime and performance of our cloud-native platform.
+Skills: Kubernetes, Prometheus, Grafana, Python. Salary: 75-100k EUR. Hybrid.
+===JOB===
+Principal Engineer — Remote.
+Define technical strategy and mentor a team of 15 engineers across backend and platform.
+Skills: System design, distributed systems, Python or Go. Salary: 180-250k. Fully remote.
+===JOB===
+Junior Frontend Developer — Chennai, India.
+Build UI components for our SaaS product using React and Tailwind CSS.
+Skills: React, JavaScript, CSS. 0-1 years experience. Salary: 5-10 LPA.

@@ -1,0 +1,41 @@
+Tell me about a time you had to deal with a difficult team member.
+
+When I was working at my previous company, we had a team member who consistently missed deadlines. I was tasked with coordinating the project delivery. I decided to have a one-on-one conversation to understand their blockers, and I proposed a daily check-in structure. As a result, their delivery rate improved by 40% over the next sprint and we successfully shipped on time.
+===ANSWER===
+I think I handled it okay. There was this person who was kind of difficult. I sort of talked to them I guess. It worked out eventually.
+===ANSWER===
+During a product launch at my last role, I was working with a designer who had a very different working style. My responsibility was to ensure the frontend and design were aligned. I implemented a shared Figma-to-code review process and collaborated closely with them on component specs. This led to a 30% reduction in design revision cycles and we delivered the feature two weeks ahead of schedule.
+===ANSWER===
+I once had a conflict with a colleague over code review standards. I was tasked with establishing team coding guidelines. I led a workshop where I proposed a shared linting config and documented our standards in a wiki. As a result, code review time dropped significantly and the team adopted the standards unanimously.
+===ANSWER===
+There was a difficult situation. I talked to my manager about it. They helped resolve it. I think it went fine.
+===ANSWER===
+While working on a data pipeline project, a senior engineer disagreed with my architectural approach. I needed to defend my design while remaining open to feedback. I created a comparison document outlining trade-offs of both approaches, presented it to the team, and proposed a hybrid solution. The outcome was that we adopted my core design with some of their optimisations, and the pipeline ran 2x faster than the original estimate.
+===ANSWER===
+I had a team member who was always negative in meetings. I decided to speak with them privately and understand their frustrations. It turned out they felt undervalued. I proposed giving them ownership of a key module. As a result, their attitude improved and they became one of the most engaged contributors on the team.
+===ANSWER===
+Kind of hard to say. I generally try to be nice to people. I don't know, I think I just ignored it mostly. It wasn't a big deal.
+===ANSWER===
+At my previous job, I was working on a cross-functional team where a stakeholder kept changing requirements mid-sprint. My role was to manage the engineering backlog. I implemented a change request process and collaborated with the product manager to freeze scope two weeks before each release. This resulted in a 50% reduction in mid-sprint scope changes and improved team morale significantly.
+===ANSWER===
+During a backend migration project, a colleague and I disagreed on the database schema design. I was tasked with leading the technical design. I organised a design review session, presented both approaches with benchmarks, and we reached consensus on a normalised schema. The outcome was a system that handled 3x the expected load in production.
+===ANSWER===
+I think I'm generally good with people. Maybe there was a time things got a bit tense but I sort of worked it out. I can't really remember a specific example right now.
+===ANSWER===
+When I joined my current team, there was a developer who was resistant to adopting new testing practices. I needed to bring the team up to a higher testing standard. I created a series of short internal workshops on pytest and hypothesis, and I built example test suites for our core modules. As a result, test coverage increased from 20% to 75% within two months.
+===ANSWER===
+There was a situation where a team member was taking credit for others' work. I decided to address it directly in a retrospective by proposing a contribution tracking system in our project management tool. This led to more transparent attribution and the behaviour stopped.
+===ANSWER===
+I once worked with someone who was very slow to respond to code reviews. I implemented a 48-hour SLA for reviews and tracked it in our sprint board. As a result, our PR cycle time dropped from 5 days to 1.5 days on average.
+===ANSWER===
+I had a disagreement with a product manager about prioritisation. I was responsible for the engineering roadmap. I built a scoring matrix weighing impact vs effort and presented it to leadership. The outcome was that we reprioritised three features, saving two weeks of engineering time.
+===ANSWER===
+Not sure I have a great example. I try to avoid conflict when I can. I guess I just kind of let things go most of the time. It usually sorts itself out.
+===ANSWER===
+During a machine learning project, a data scientist and I disagreed on feature engineering approaches. I proposed running a controlled A/B experiment to compare both approaches empirically. As a result, we identified that my approach improved model accuracy by 8% and adopted it for production.
+===ANSWER===
+I was working on a DevOps team where a colleague was bypassing our CI/CD pipeline. I implemented mandatory pipeline checks in our GitHub Actions config and documented the rationale. This led to zero bypasses in the following quarter and improved deployment reliability.
+===ANSWER===
+There was a time I had to manage a junior developer who was struggling. I was their technical lead. I set up weekly 1:1s, created a structured learning plan, and paired with them on complex tasks. As a result, they became an independent contributor within three months and received a positive performance review.
+===ANSWER===
+I once had a conflict with a colleague over API design standards. I organised a technical RFC process where both approaches were documented and reviewed by the team. The outcome was a unified API style guide that we still use today.

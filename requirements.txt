@@ -1,0 +1,6 @@
+openai
+pandas
+hypothesis
+pytest
+pytest-mock
+streamlit
